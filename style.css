@@ -1,0 +1,23 @@
+h1{
+    font-size: 30px;
+    font-weight: 900;
+}
+#heading-color{
+    color: brown;
+}
+.half-width{
+    padding-left:100px;
+    float: left;
+    
+}
+.picture-feature{
+     
+    width: 500px;
+    
+}
+.second-image{
+    width: 400px;
+    padding-right: 100px ;
+    
+  
+}
